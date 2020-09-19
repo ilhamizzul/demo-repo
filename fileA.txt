@@ -1,1 +1,30 @@
 lorem ipsum dolor sit amet
+lorem ipsum dolor sit amet
+
+pegawai
+    Create
+    Read
+    Update
+    Delete
+admin
+    Create
+    Read
+    Update
+    Delete
+
+devA
+    pegawai - create
+DevB
+DevC
+
+branch per developer
+branch per fiture
+
+Branching
+Develop
+    pegawai
+        Create
+        Read
+        Update
+        delete
+    admin
